@@ -572,6 +572,11 @@ max-width = width - 1
             margin-bottom: 2rem;
         }
     }
+    .subscribe {
+        &__input {
+            padding-right: 0rem;
+        }
+    }
 }
 @media screen and (max-width: 479px) {
     .banner {

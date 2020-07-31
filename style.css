@@ -713,6 +713,9 @@ max-width = width - 1
     width: 100%;
     margin-bottom: 2rem;
   }
+  .subscribe__input {
+    padding-right: 0rem;
+  }
 }
 
 @media screen and (max-width: 479px) {
