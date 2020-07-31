@@ -716,9 +716,6 @@ max-width = width - 1
   .subscribe__input {
     padding-right: 0rem;
   }
-  .subscribe__button {
-    padding-right: 2.5rem;
-  }
 }
 
 @media screen and (max-width: 479px) {
