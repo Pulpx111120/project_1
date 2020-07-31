@@ -573,6 +573,9 @@ max-width = width - 1
         }
     }
     .subscribe {
+        &__input {
+            padding-right: 0rem;
+        }
         &__button {
             margin-right: 2.5rem;
         }
