@@ -716,8 +716,8 @@ max-width = width - 1
   .subscribe__input {
     padding-right: 0rem;
   }
-  .subscribe__button {
-    margin-right: 2.5rem;
+  .subscribe__form {
+    padding: 2rem 3rem;
   }
 }
 

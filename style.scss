@@ -576,9 +576,12 @@ max-width = width - 1
         &__input {
             padding-right: 0rem;
         }
-        &__button {
-            margin-right: 2.5rem;
+        &__form {
+            padding: 2rem 3rem;
         }
+        // &__button {
+        //     margin-right: 2.5rem;
+        // }
     }
 }
 @media screen and (max-width: 479px) {
