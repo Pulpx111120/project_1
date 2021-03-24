@@ -15,4 +15,4 @@
 [website]: https://nvanha.github.io/myweb
 [instagram]: https://www.instagram.com/_haa_nguyen
 [facebook]: https://www.facebook.com/nvh1120
-[link]: https://nvanha.github.io/psd_1/index.htm
+[link]: https://github.com/nvanha/psd_1
